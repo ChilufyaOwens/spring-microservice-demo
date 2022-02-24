@@ -9,9 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="apigateway" />
         <module name="clients" />
+        <module name="fraud" />
+        <module name="amqpdemo" />
         <module name="notificationdemo" />
         <module name="eureka-server" />
-        <module name="fraud" />
         <module name="customer" />
       </profile>
     </annotationProcessing>
