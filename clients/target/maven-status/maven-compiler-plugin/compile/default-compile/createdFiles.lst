@@ -1,0 +1,4 @@
+com\ksi\clients\fraud\FraudCheckResponse.class
+com\ksi\clients\fraud\FraudClient.class
+com\ksi\clients\notification\NotificationClient.class
+com\ksi\clients\notification\NotificationRequest.class

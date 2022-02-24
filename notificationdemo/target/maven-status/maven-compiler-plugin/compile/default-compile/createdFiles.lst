@@ -1,0 +1,6 @@
+com\ksi\notification\NotificationDemoApplication.class
+com\ksi\notification\Notification.class
+com\ksi\notification\Notification$NotificationBuilder.class
+com\ksi\notification\NotificationController.class
+com\ksi\notification\NotificationRepository.class
+com\ksi\notification\NotificationService.class
